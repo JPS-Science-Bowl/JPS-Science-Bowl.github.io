@@ -1,3 +1,3 @@
-# jpsciencebowl.github.io
+# jpssciencebowl.github.io
 
 Team website
