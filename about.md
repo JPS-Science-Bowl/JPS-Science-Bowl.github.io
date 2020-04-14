@@ -1,3 +1,5 @@
 ---
 layout:default
-title
+title: About
+---
+#About page
