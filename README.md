@@ -1,3 +1,3 @@
 # jpssciencebowl.github.io
 
-Team website
+The team website for John P. Stevens Science Bowl
