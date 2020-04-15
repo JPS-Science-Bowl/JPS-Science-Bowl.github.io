@@ -8,4 +8,5 @@ defaults:
       type: "authors"
     values:
       layout: "author"
-  - scope
+  - scope:
+      path
