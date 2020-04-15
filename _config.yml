@@ -4,7 +4,8 @@ collections:
 
 plugins:
   - jekyll-feed
-  - jekyll-
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 defaults:
   - scope:
