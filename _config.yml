@@ -2,4 +2,6 @@ collections:
   authors:
     output: true
 
-def
+defaults:
+  - scope:
+      
