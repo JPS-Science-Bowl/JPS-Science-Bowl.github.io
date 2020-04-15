@@ -3,5 +3,5 @@
 ---
 
 @import
-  
-  "minima/initialize";
+  "skins/{{ site.minima.skin | default: 'classic' }}",
+  "initialize";
