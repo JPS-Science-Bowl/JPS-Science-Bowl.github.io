@@ -3,7 +3,8 @@ collections:
     output: true
 
 plugins:
-  - 
+  - jekyll-feed
+  - jekyll-
 
 defaults:
   - scope:
