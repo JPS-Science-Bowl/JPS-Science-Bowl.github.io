@@ -7,4 +7,5 @@ defaults:
       path: ""
       type: "authors"
     values:
-      layout
+      layout: "author"
+  
