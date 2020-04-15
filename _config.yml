@@ -9,4 +9,6 @@ defaults:
     values:
       layout: "author"
   - scope:
-      path
+      path: ""
+      type: "posts"
+    
