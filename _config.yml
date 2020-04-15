@@ -25,5 +25,5 @@ defaults:
 name: JPS Science Bowl
 
 url: "http://jps-science-bowl.github.io"
-markdown: GFM
+markdown: kramdown
 theme: minima
