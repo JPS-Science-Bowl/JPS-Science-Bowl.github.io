@@ -2,7 +2,8 @@ collections:
   authors:
     output: true
 
-
+plugins:
+  - 
 
 defaults:
   - scope:
