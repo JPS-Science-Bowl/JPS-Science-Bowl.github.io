@@ -4,5 +4,5 @@ gem 'jekyll'
 
 gem 'minima'
 
-group :jekyll_plugins do
+group :jekyll_plugins
 end
