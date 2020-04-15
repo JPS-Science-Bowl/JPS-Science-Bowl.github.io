@@ -6,4 +6,5 @@ defaults:
   - scope:
       path: ""
       type: "authors"
-      
+    values:
+      layout
