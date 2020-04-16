@@ -7,6 +7,15 @@ title: Past Members
 
 This page will list past A-team members AKA members we were able to take to the competition at PPPL.
 
+## 2015-2016
+Shravan Hariharan (Captain)
+
+Nikit Nainwal
+
+Aseem Utrankar
+
+William Li
+
 ## 2016-2017
 William Li (Captain)
 
