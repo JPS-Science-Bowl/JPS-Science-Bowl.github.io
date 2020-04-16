@@ -3,9 +3,6 @@
 
 - name: About
   link: /about.html
-
-- name: Blog
-  link: /blog.html
-
+  
 - name: Past Members
   link: /past_members.html
