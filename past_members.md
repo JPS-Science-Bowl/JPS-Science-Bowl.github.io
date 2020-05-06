@@ -5,7 +5,7 @@ title: Past Members
 
 # Past Members
 
-This page will list past A-team members AKA members we were able to take to the competition at PPPL.
+This page will list past members.
 
 ## 2015-2016
 Shravan Hariharan (Captain)
@@ -25,6 +25,16 @@ Kylen Bao
 
 Akshay Yeluri
 
+Archana Sadangi
+
+Maya Merchant
+
+Girish Ganesan
+
+Amog Mysore
+
+Shreyansh Prithyani
+
 ## 2017-2018
 Kevin Yang (Captain)
 
@@ -35,6 +45,14 @@ Girish Ganesan
 Rishabh Rout
 
 Joheen Chakraborty
+
+Archana Sadangi
+
+Alan Hsu
+
+Adhvik Kanagala
+
+Pranav Krishna
 
 ## 2018-2019
 Kylen Bao (Captain)
@@ -47,6 +65,14 @@ Rishabh Rout
 
 Rajeev Atla
 
+Rachel Tam
+
+Siya Scindia
+
+David Zhao
+
+Jaitri Gangula
+
 ## 2019-2020
 Rishabh Rout (Captain)
 
@@ -57,3 +83,13 @@ Cindy Xu
 Yousuf Khan
 
 Tijil Kiran
+
+Nilay Patel
+
+Aayush Gupta
+
+Nethra Iyer
+
+Michelle Liu
+
+Sriya Chinthalapudi
