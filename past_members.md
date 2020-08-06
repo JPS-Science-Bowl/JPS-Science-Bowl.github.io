@@ -16,6 +16,10 @@ Aseem Utrankar
 
 William Li
 
+Tilak Bhatnagar
+
+Dennis Nguyen
+
 ## 2016-2017
 William Li (Captain)
 
