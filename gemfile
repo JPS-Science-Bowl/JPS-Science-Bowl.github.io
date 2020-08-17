@@ -6,6 +6,8 @@ gem 'minima'
 
 gem 'github-pages'
 
+gem "kramdown", ">= 2.3.0"
+
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-feed'
