@@ -99,3 +99,26 @@ Nethra Iyer
 Michelle Liu
 
 Sriya Chinthalapudi
+
+## 2020-2021
+Rajeev Atla (Captain)
+
+Tijil Kiran (Captain)
+
+Sriya Chintalapudi
+
+Aayush Gupta
+
+Nilay Patel
+
+Kushal Aluru
+
+Justin Tam
+
+Sofia Arora
+
+Michael Galsim
+
+Aadhesharjun Senthilkumar
+
+Kaushik Mahesh
